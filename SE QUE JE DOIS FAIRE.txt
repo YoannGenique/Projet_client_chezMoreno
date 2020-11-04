@@ -1,3 +1,0 @@
-Crée un formulaire de connection pour les employé qui redirige vers leur page perso.
-Stocker les deux doc sur la base de donné
-se renseigné sur le fait d'avoir des log pour le patron
